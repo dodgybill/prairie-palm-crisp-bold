@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "PatriotNet",
+      "hasCanvas": false,
+      "bodyTextLen": 28,
+      "bodyTextHash": "e9f9f4b7b6441c1276a44d01503ce33ca3190474e0ae0bd2a836f5e96eadad31",
+      "bodyTextPrefix": "INITIALISING SECURE SESSION…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "PatriotNet",
+      "hasCanvas": false,
+      "bodyTextLen": 28,
+      "bodyTextHash": "e9f9f4b7b6441c1276a44d01503ce33ca3190474e0ae0bd2a836f5e96eadad31",
+      "bodyTextPrefix": "INITIALISING SECURE SESSION…",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
